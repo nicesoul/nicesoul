@@ -1,6 +1,5 @@
 ### РАДІЙ!
-I'm a fresh web developer. I love pure CSS and hate Bootstrap :)
-I want to establish closer relationship with React ;) 
+I'm a fresh web developer. I love pure CSS and fine-tuning sites :) 
 
 be yourself :) 
 
