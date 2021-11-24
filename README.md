@@ -1,9 +1,12 @@
 ### РАДІЙ!
-I'm a fresh web developer. I love pure CSS and fine-tuning sites :) 
+I'm a fresh Data scientist and AI engineer with a web development background. I love Python, CSS, and being joyful on mother Earth :)
 
-be yourself :) 
+Go whole-food plant-based!
 
-<!--Check more at https://nicesoul.me (currently under development)
+be yourself :)
+
+any questions or feedback? [contact me](https://nicesoul.me/contact)
+
 <!--
 **nicesoul/nicesoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
