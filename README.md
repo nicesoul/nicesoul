@@ -1,5 +1,6 @@
 ### РАДІЙ!
-I'm a fresh Data scientist and AI engineer with a web development background. I love Python, CSS, and being joyful on mother Earth :)
+I'm a Web dev ~~failed to become a Data scientist and AI engineer~~ currently learning UX & UI and making simple static websites for my friends.
+I love Python, CSS, and being joyful on mother Earth :)
 
 Go whole-food plant-based!
 
@@ -7,17 +8,4 @@ be yourself :)
 
 any questions or feedback? [contact me](https://nicesoul.me/contact)
 
-<!--
-**nicesoul/nicesoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a shopping app 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2025/09/03
